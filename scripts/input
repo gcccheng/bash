@@ -1,0 +1,26 @@
+#!/bin/bash
+# Author: Gang Cheng
+# Date Created: 29.11.2021
+# Decription: input and output
+
+a=$(hostname)
+echo "my machine is $a"
+
+echo "what is your machiine name"
+
+read b
+echo $b
+
+echo "what is your professional"
+read c
+echo "your professional is $c"
+echo
+
+echo "hello, my name is Gang Cheng"
+echo
+echo "What is your name?"
+read guestname
+echo
+echo "Hello $guestname"
+echo
+ 

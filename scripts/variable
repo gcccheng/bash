@@ -1,0 +1,21 @@
+#!/bin/bash
+# Author:
+# Time created:
+# Description:
+
+# Define variables
+
+p=pwd
+l=ls
+wi=whoami
+d=date
+c=cal
+
+echo "run variable tasks"
+echo
+echo $p
+$l
+$wi
+$d
+$c
+
