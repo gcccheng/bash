@@ -1,0 +1,27 @@
+#!/bin/bash
+# Author: Gang Cheng
+# Date Created: 29.11.2021
+# Decription: run basic linux tasks
+# Date modified:
+
+echo
+echo "this script will run a couple of basic tasks"
+echo
+pwd
+ehco
+ls
+echo
+whoami
+echo
+./helloworld
+echo
+date
+echo
+cal
+echo
+touch a b c
+echo
+ls
+echo "end of script"
+
+

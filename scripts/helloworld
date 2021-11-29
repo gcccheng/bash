@@ -1,0 +1,9 @@
+#!/bin/bash
+# Author: Gang Cheng
+# Date Created: 29.11.2021
+# Decription: out put a "hello world"
+# Date modified
+echo 
+echo "hello world!"
+echo
+
