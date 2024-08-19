@@ -1,0 +1,16 @@
+#!/bin/bash
+# Author: Gang Cheng
+# Date Created: 29.11.2021
+# Decription: for loop
+
+	for i in 1 2 3 4 5
+	do
+	echo "welcome $i times"
+	done
+
+	for i in eat run jum play
+	do
+	echo He $i
+	echo
+	done
+

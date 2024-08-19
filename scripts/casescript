@@ -1,0 +1,29 @@
+#!/bin/bash
+# Author: Gang Cheng
+# Date Created: 29.11.2021
+# Decription: case 
+
+echo 
+echo "please choose options"
+echo
+echo 'a = display date'
+echo 
+echo 'b = display ls'
+echo
+echo 'c = display who'
+echo
+echo 'd = display uptime'
+echo
+
+read choices
+	case $choices in
+	
+	a) date;;
+	b) ls;;
+	c) who;;
+	d) uptime;;
+	*) echo "invalid options".
+
+
+	esac
+

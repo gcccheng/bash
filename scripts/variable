@@ -1,7 +1,9 @@
 #!/bin/bash
 # Author:
 # Time created:
-# Description:
+# Description: $$ is the PID, $0 is the script file, $@ is the array of arguments, $# is number of argument
+
+
 
 # Define variables
 

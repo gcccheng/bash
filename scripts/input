@@ -2,6 +2,10 @@
 # Author: Gang Cheng
 # Date Created: 29.11.2021
 # Decription: input and output
+# $$ is the PID, $0 is the script file, $@ is the array of arguments, $# is number of argument
+
+echo $#
+
 
 a=$(hostname)
 echo "my machine is $a"
